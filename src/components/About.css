@@ -1,0 +1,9 @@
+.about-text {
+  max-width: 65ch;
+  color: var(--muted);
+  font-size: 1.05rem;
+}
+
+.about-text p {
+  margin: 0 0 1rem;
+}
